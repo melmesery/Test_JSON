@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "image": "Images/product-1.jpg",
+            "title": "Colored Pepper",
+            "price": "15 LE"
+        },
+        {
+            "image": "Images/product-2.jpg",
+            "title": "Strawberry",
+            "price": "25 LE"
+        },
+        {
+            "image": "Images/product-3.jpg",
+            "title": "Peas",
+            "price": "10 LE"
+        },
+        {
+            "image": "Images/product-4.jpg",
+            "title": "Purple Cabbage",
+            "price": "10 LE"
+        },
+        {
+            "image": "Images/product-5.jpg",
+            "title": "Tomatoes",
+            "price": "12 LE"
+        },
+        {
+            "image": "Images/product-6.jpg",
+            "title": "Cauliflower",
+            "price": "13 LE"
+        },
+        {
+            "image": "Images/product-7.jpg",
+            "title": "Carrots",
+            "price": "8 LE"
+        },
+        {
+            "image": "Images/product-8.jpg",
+            "title": "Onions",
+            "price": "10 LE"
+        },
+        {
+            "image": "Images/product-9.jpg",
+            "title": "Garlic",
+            "price": "5 LE"
+        },
+        {
+            "image": "Images/product-10.jpg",
+            "title": "Red Pepper",
+            "price": "15 LE"
+        },
+        {
+            "image": "Images/product-11.jpg",
+            "title": "Apple",
+            "price": "25 LE"
+        },
+        {
+            "image": "Images/product-12.jpg",
+            "title": "Detox",
+            "price": "30 LE"
+        }
+    ]
+}
